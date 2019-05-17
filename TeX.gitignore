@@ -144,7 +144,6 @@ acs-*.bib
 *.idx
 *.ilg
 *.ind
-*.ist
 
 # minitoc
 *.maf
@@ -260,3 +259,6 @@ TSWLatexianTemp*
 
 # standalone packages
 *.sta
+
+# glossaries-extra
+*.ist
